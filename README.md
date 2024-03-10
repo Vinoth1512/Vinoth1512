@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/vinoth_1512" target="blank"><img src="https://img.shields.io/twitter/follow/vinoth_1512?logo=twitter&style=for-the-badge" alt="vinoth_1512" /></a> </p>
 
-- 🌱 I’m currently focusing **NLP,Gen AI,LLM**
+- 🌱 I’m currently focusing on **NLP,Gen AI,LLM**
 
 - 📫 How to reach me **vinothvk1211@protonmail.com**
 
