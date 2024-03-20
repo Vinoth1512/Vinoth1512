@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently focusing on **NLP,Gen AI,LLM**
 
-- 📫 How to reach me **vinothvk1211@protonmail.com**
+- 📫 How to reach me **vinothvk1211@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
